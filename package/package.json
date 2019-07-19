@@ -9,8 +9,9 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "start": "PORT=9000 react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
+    "sonar": "sonar-scanner",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
